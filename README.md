@@ -1,2 +1,2 @@
-# FPOO
-Diretório para matéria de Fundamentos de Programação Orientada a Objetos
+# Técnico em Desenvolvimento de Sistemas
+Projetos realizados durante o curso técnico em desenvolvimento de sistemas 2023-atual
